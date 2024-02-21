@@ -47,7 +47,6 @@
 
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
 
-Скриншот 1
 ![Скриншот 1](https://github.com/akalitvyanskiy/memcached_redis/blob/main/img/2.png)
 
 ---
@@ -58,7 +57,6 @@
 
 *Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*
 
-Скриншот 2
 ![Скриншот 2](https://github.com/akalitvyanskiy/memcached_redis/blob/main/img/3.png)
 
 ---
@@ -69,7 +67,6 @@
 
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
 
-Скриншот 3
 ![Скриншот 3](https://github.com/akalitvyanskiy/memcached_redis/blob/main/img/4.png)
 
 ## Дополнительные задания (со звёздочкой*)
@@ -81,5 +78,4 @@
 
 *Приведите скриншот, где будут проделаны все операции и будет видно, что значение key5 стало равно 10.*
 
-Скриншот 4
 ![Скриншот 4](https://github.com/akalitvyanskiy/memcached_redis/blob/main/img/5.png)
